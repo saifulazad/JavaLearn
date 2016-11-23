@@ -8,7 +8,7 @@ package assertion;
  * Assertion :
  * Helps to find out uncertain flow of code execution
  *
- * Unlike Exception , assertion can be enabled / disabled by
+ * Unlike Exceptions , assertion can be enabled / disabled by
  * VM option
  *
  * 
