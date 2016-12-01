@@ -54,7 +54,7 @@ public class QueseTest {
         Queue<String> stringMyQueue = new MyQueue<>();
 
         Queue<String> stringQueue = new PriorityQueue<>();
-        
+
 
         stringMyQueue.add("Azad");
         stringMyQueue.add("Belal");
