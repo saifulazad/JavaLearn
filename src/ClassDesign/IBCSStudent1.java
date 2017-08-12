@@ -11,7 +11,7 @@ import javax.rmi.CORBA.Stub;
 
 /**
  *
- * @author Instructor
+ * @author Azad
  */
 public class IBCSStudent1 implements StudentBehaviour{
 

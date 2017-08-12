@@ -10,7 +10,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Instructor
+ * @author Azad
  */
 public class AllTest {
     

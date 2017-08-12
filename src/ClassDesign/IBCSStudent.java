@@ -7,7 +7,7 @@ package ClassDesign;
 
 /**
  *
- * @author Instructor
+ * @author Azad
  */
 public final class IBCSStudent extends Student{
 

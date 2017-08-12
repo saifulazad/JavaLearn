@@ -2,7 +2,7 @@ package FunctionEx;
 
 
 /**
- * Created by Instructor on 4/5/2016.
+ * Created by Azad on 4/5/2016.
  */
 public class OddEvenEx {
 

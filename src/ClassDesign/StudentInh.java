@@ -9,7 +9,7 @@ import FunctionEx.Person;
 
 /**
  *
- * @author Instructor
+ * @author Azad
  */
 public class StudentInh extends Person{
     

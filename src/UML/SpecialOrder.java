@@ -7,7 +7,7 @@ package UML;
 
 /**
  *
- * @author Instructor
+ * @author Azad
  */
 public class SpecialOrder extends Order{
     

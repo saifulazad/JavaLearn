@@ -7,7 +7,7 @@ package tvfactory;
 
 /**
  *
- * @author Instructor
+ * @author Azad
  */
 public class TeleVision implements Remote{
     final private  Remote remote;

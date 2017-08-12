@@ -7,7 +7,7 @@ package interfacE;
 
 /**
  *
- * @author Instructor
+ * @author Azad
  */
 public interface StudentBehaviour {
     

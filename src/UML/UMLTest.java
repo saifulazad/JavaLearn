@@ -7,7 +7,7 @@ package UML;
 
 /**
  *
- * @author Instructor
+ * @author Azad
  */
 public class UMLTest {
     public static void main(String[] args) {

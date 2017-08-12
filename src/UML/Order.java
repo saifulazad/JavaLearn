@@ -7,7 +7,7 @@ package UML;
 
 /**
  *
- * @author Instructor
+ * @author Azad
  */
 public class Order {
     private String number;

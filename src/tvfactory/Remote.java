@@ -7,7 +7,7 @@ package tvfactory;
 
 /**
  *
- * @author Instructor
+ * @author Azad
  */
 public interface Remote {
     

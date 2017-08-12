@@ -7,7 +7,7 @@ package ClassDesign;
 
 /**
  *
- * @author Instructor
+ * @author Azad
  */
 public class IBCSStudentTest {
     public static void main(String[] args) {

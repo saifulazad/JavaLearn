@@ -9,7 +9,7 @@ import ClassDesign.Student;
 
 /**
  *
- * @author Instructor
+ * @author Azad
  */
 public class IBCSStudent extends Student implements StudentBehaviour{
 

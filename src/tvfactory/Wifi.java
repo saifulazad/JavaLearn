@@ -7,7 +7,7 @@ package tvfactory;
 
 /**
  *
- * @author Instructor
+ * @author Azad
  */
 public class Wifi implements Remote{
 

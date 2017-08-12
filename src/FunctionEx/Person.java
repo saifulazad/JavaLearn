@@ -8,7 +8,7 @@ package FunctionEx;
 
 /**
  *
- * @author Instructor
+ * @author Azad
  */
  public class Person{
     private String first_name;

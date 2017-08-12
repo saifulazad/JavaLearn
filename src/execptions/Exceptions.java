@@ -7,7 +7,7 @@ package execptions;
 
 /**
  *
- * @author Instructor
+ * @author Azad
  */
 public class Exceptions {
     /**

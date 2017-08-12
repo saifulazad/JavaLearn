@@ -6,7 +6,7 @@ package javathread.threaddemo;
 
 /**
  *
- * @author instructor
+ * @author Azad
  */
 public class LoopPrinter extends Thread {
     

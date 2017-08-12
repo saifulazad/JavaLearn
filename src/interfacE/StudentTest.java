@@ -9,7 +9,7 @@ import ClassDesign.Student;
 
 /**
  *
- * @author Instructor
+ * @author Azad
  */
 public class StudentTest {
     public static void main(String[] args) {

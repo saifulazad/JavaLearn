@@ -7,7 +7,7 @@ package overloding;
 
 /**
  *
- * @author Instructor
+ * @author Azad
  */
 public class OverloadTest {
     

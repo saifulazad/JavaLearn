@@ -9,7 +9,7 @@ import FunctionEx.Person;
 
 /**
  *
- * @author Instructor
+ * @author Azad
  */
 public class StudentInhTest {
     public static void main(String[] args) {
