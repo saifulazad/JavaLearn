@@ -13,21 +13,4 @@ import javax.rmi.CORBA.Stub;
  *
  * @author Azad
  */
-public class IBCSStudent1 implements StudentBehaviour{
 
-
-    @Override
-    public void love() {
-        
-          
-        System.out.println("IBCS Student are more lovely");
-       // throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
-
-    @Override
-    public void styleofstudy() {
-        System.out.println("They use HP laptops");
-        //throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
-    
-}

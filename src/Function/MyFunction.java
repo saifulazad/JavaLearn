@@ -9,17 +9,17 @@ public class MyFunction {
      * having no parameter and  having no parameter
      *
      * return_type   void so having no parameter
-     * function_name myfirstfunction
+     * function_name myfirstFunction
      * parameter list : blank /  having no parameter that means ()
      */
 
-    static void myfirstfunction(){
+    static void myfirstFunction(){
 
-        System.out.println("Hey this is myfirstfunction's 1st statement");
-        System.out.println("Hi I am myfirstfunction I can do many things");
+        System.out.println("Hey this is myfirstFunction's 1st statement");
+        System.out.println("Hi I am myfirstFunction I can do many things");
 
 
-        System.out.println("Hey this is myfirstfunction's last statement");
+        System.out.println("Hey this is myfirstFunction's last statement");
 
         return;
     }
@@ -27,13 +27,13 @@ public class MyFunction {
     public static void main(String[] args){
         /**
          * call that function from main
-         * by myfirstfunction
-         * () hence myfirstfunction has no
+         * by myfirstFunction
+         * () hence myfirstFunction has no
          * parameter, we call it with no
          * argument
          */
         System.out.println("Hi from main");
-        myfirstfunction();
+        myfirstFunction();
         System.out.println("Hi from main end ");
     }
 }
