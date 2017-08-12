@@ -25,7 +25,7 @@ public class TestInterface {
         validators.add(zipCodeValidator);
         validators.add(mobileNumberValidator);
 
-        for (Validator eachValidator: validators){
+        for (Validator eachValidator : validators) {
             System.out.println(eachValidator.isValid());
         }
 
